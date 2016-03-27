@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<!-- the font-name used within the jasper report -->
+	<fontFamily name="masum">
+		<!-- the actual font files within the jar -->
+		<normal>fonts/arial-narrow.ttf</normal>
+	
+	</fontFamily>
+</fontFamilies>
