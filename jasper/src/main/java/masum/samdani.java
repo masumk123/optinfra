@@ -1,6 +1,0 @@
-class samdani {
-
-// bangladesh
-
-
-}
